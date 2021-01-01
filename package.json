@@ -1,0 +1,20 @@
+{
+  "name": "hello-github-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samvitjain/hello-github-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samvitjain/hello-github-action/issues"
+  },
+  "homepage": "https://github.com/samvitjain/hello-github-action#readme"
+}
