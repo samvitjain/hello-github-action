@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/samvitjain/hello-github-action/issues"
   },
-  "homepage": "https://github.com/samvitjain/hello-github-action#readme"
+  "homepage": "https://github.com/samvitjain/hello-github-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
 }
